@@ -1,0 +1,23 @@
+ 1: Creating Blog Posts
+
+A user visits the application and sees a form with fields like:
+
+Title: "My First Blog Post"
+Content: "Today, I learned how to build a blog application using Node.js and EJS!"
+
+The user submits the form, and the post is displayed on the main page.
+
+2: Viewing Blog Posts
+After submitting, the post appears in a list, e.g.:
+
+Post 1:
+Title: My First Blog Post
+Content: Today, I learned how to build a blog application using Node.js and EJS!
+
+Post 2:
+Title: Weekend Adventures
+Content: I went hiking in the mountains and enjoyed a scenic view!
+
+
+
+
